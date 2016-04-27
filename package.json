@@ -1,0 +1,15 @@
+{
+  "name": "cluster-sharing",
+  "version": "1.0.0",
+  "description": "testing sharing process.env with workers\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.4",
+    "throng": "4.0.0"
+  }
+}
